@@ -38,6 +38,7 @@ Open new terminal, navigate todo folder "cd todo"
 
 -run "npm start"
 
+# Preview 
 
 ![Image description](https://github.com/RadhikaSonawane/todo/blob/master/Todo-Screenshot%20.png)
 
