@@ -1,6 +1,6 @@
 # todo
 
-Used following Technologies
+#Used following Technologies
 
 -Node v10.16.3
 
@@ -13,11 +13,11 @@ Used following Technologies
 -React.js 
 
 
-What need to install
+# What need to install
 
 MongoDB database.
 
-
+# Run the project
 Navigate api folder "cd api" 
 
 -then "npm install"
